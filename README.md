@@ -72,7 +72,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-repo/willo-solana-layerzero.git
+   git clone https://github.com/tatdz/willo-solana-layerzero.git
    cd willo-solana-layerzero
    ```
 
