@@ -316,10 +316,6 @@ For developers integrating with Willo:
 3. Make changes with tests
 4. Submit a pull request
 
-## 📄 License
-
-MIT License - see LICENSE file for details
-
 
 ## 🎯 Roadmap
 
