@@ -320,11 +320,6 @@ For developers integrating with Willo:
 
 MIT License - see LICENSE file for details
 
-## 🆘 Support
-
-- **Documentation**: Check the built-in setup guide
-- **Issues**: Report bugs via GitHub issues
-- **Community**: Join LayerZero Discord for protocol support
 
 ## 🎯 Roadmap
 
